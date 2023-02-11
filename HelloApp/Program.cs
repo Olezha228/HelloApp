@@ -8,10 +8,6 @@ app.Run(async (context) =>
     await response.WriteAsync("<h2>Hello METANIT.COM</h2><h3>Welcome to ASP.NET Core</h3>");
 });
 
-// this is olegb branch
+// this is master branch
 
 app.Run();
-
-// changed master, wanna see it in olegb
-
-// changed olegb, wanna see it in master
