@@ -8,6 +8,6 @@ app.Run(async (context) =>
     await response.WriteAsync("<h2>Hello METANIT.COM</h2><h3>Welcome to ASP.NET Core</h3>");
 });
 
-// this is for new branch //new shiiish 123123
+// this is master branch
 
 app.Run();
