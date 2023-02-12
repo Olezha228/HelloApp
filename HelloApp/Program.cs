@@ -16,5 +16,4 @@ app.Run(async (context) =>
 
 app.Run();
 
-// this is 123oleg123
-//oleg giga
+// this is master to base123
