@@ -12,7 +12,7 @@ namespace MathTests
         public void Add_WhenPositive_ValidExpected()
         {
             var first = 5;
-            var second = 10;hjkhk
+            var second = 12;
 
             var expected = 15;
             var result = Calculator.Add(first, second);
