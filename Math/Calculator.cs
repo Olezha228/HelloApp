@@ -1,10 +1,10 @@
 ﻿namespace Math
 {
-    public class Calculator
+    public class Calculate
     {
         public static int Add(int x, int y)
         {
-            return y + x;
+            return x + y;
         }
     }
 }
