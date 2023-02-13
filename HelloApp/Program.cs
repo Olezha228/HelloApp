@@ -15,6 +15,3 @@ app.Run(async (context) =>
 });
 
 app.Run();
-// some olegb 333
-
-// 123123123
