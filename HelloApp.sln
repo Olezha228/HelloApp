@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloApp", "HelloApp\HelloA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathTests", "MathTests\MathTests.csproj", "{C3FDD6D8-279B-46C3-BC9D-D0124ECFEC99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{7B49A638-B011-41B9-8ED4-D16726B17D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{7B49A638-B011-41B9-8ED4-D16726B17D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
